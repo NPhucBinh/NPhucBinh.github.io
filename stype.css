@@ -1,5 +1,5 @@
 .hello{
-    color: rgba(255, 240, 240, 0.945);
+    color: rgba(250, 222, 222, 0.897);
     opacity: 0;
     animation: headtex 3s;
     animation-delay: 1s;
@@ -10,7 +10,7 @@
 
 
 .name{
-    color: rgba(255, 240, 240, 0.945);
+    color: rgba(250, 222, 222, 0.897);
     position: fixed;
     opacity: 0;
     top: 250px;
@@ -22,7 +22,7 @@
     animation-delay: 5s;
   }
 .local{
-    color: rgba(255, 240, 240, 0.945);
+    color: rgba(250, 222, 222, 0.897);
     position: fixed;
     opacity: 0;
     top: 252px;
@@ -35,7 +35,7 @@
     margin-bottom: 10px;
 }
 .meet{
-    color: rgba(255, 240, 240, 0.945);
+    color: rgba(250, 222, 222, 0.897);
     position: fixed;
     opacity: 0;
     top: 250px;
@@ -69,7 +69,7 @@
     
 }
 .introduce{
-    color: rgba(255, 240, 240, 0.945);
+    color: rgba(250, 222, 222, 0.897);
     position: fixed;
     text-align: center;
     opacity: 0;
@@ -82,7 +82,7 @@
     margin-bottom: 18px;
 }
 .introduce2{
-    color: rgba(255, 240, 240, 0.945);
+    color: rgba(250, 222, 222, 0.897);
     position: fixed;
     text-align: center;
     opacity: 0;
@@ -95,7 +95,7 @@
     margin-bottom: 18px;
 }
 .py{
-    color: rgba(255, 240, 240, 0.945);
+    color: rgba(250, 222, 222, 0.897);
     position: fixed;
     text-align: center;
     opacity: 0;
@@ -109,7 +109,7 @@
     margin-bottom: 18px;
 }
 .people{
-    color: rgba(255, 240, 240, 0.945);
+    color: rgba(250, 222, 222, 0.897);
     position: fixed;
     text-align: center;
     opacity: 0;
@@ -124,7 +124,7 @@
 }
 
 .cs{
-    color: rgba(255, 240, 240, 0.945);
+    color: rgba(250, 222, 222, 0.897);
     position: fixed;
     text-align: center;
     opacity: 0;
@@ -140,7 +140,7 @@
 
 
 .fre{
-    color: rgba(255, 240, 240, 0.945);
+    color: rgba(250, 222, 222, 0.897);
     position: fixed;
     text-align: center;
     opacity: 0;
@@ -155,7 +155,7 @@
 }
 
 .skill{
-    color: rgba(255, 240, 240, 0.945);
+    color: rgba(250, 222, 222, 0.897);
     position: fixed;
     text-align: center;
     opacity: 0;
@@ -167,7 +167,7 @@
     animation-delay: 69s;
 }
 .nskill{
-    color: rgba(255, 240, 240, 0.945);
+    color: rgba(250, 222, 222, 0.897);
     position: fixed;
     text-align: center;
     opacity: 0;
@@ -177,14 +177,14 @@
     animation-delay: 75s;
 }
 .nskill:before{
-    background-color: rgba(255, 240, 240, 0.945);
+    background-color: rgba(250, 222, 222, 0.897);
     content:'';
     display: block;
     width: 380px;
     height: 3px;
 }
 .sskill{
-    color: rgba(255, 240, 240, 0.945);
+    color: rgba(250, 222, 222, 0.897);
     position: fixed;
     text-align: justify;
     opacity: 0;
@@ -198,7 +198,7 @@
     margin-top: 20px;
 }
 .sskill2{
-    color: rgba(255, 240, 240, 0.945);
+    color: rgba(250, 222, 222, 0.897);
     position: fixed;
     text-align: justify;
     opacity: 0;
@@ -213,7 +213,7 @@
 }
 
 .muctieu{
-    color: rgba(255, 240, 240, 0.945);
+    color: rgba(250, 222, 222, 0.897);
     position: fixed;
     text-align: center;
     opacity: 0;
@@ -224,14 +224,14 @@
     margin-top: 20px;
 }
 .muctieu:before{
-    background-color: rgba(255, 240, 240, 0.945);
+    background-color: rgba(250, 222, 222, 0.897);
     content:'';
     display: block;
     width: 405px;
     height: 3px;
 }
 .ngan{
-    color: rgba(255, 240, 240, 0.945);
+    color: rgba(250, 222, 222, 0.897);
     position: fixed;
     text-align: justify;
     width: 500px;
@@ -250,7 +250,7 @@
 }
 
 .camon{
-    color: rgba(255, 240, 240, 0.945);
+    color: rgba(250, 222, 222, 0.897);
     opacity: 0;
     animation: headtex 3s;
     animation-delay: 98s;
@@ -263,7 +263,7 @@
     animation-fill-mode: forwards;
 }
 .thongtin{
-    color: rgba(255, 240, 240, 0.945);
+    color: rgba(250, 222, 222, 0.897);
     position: fixed;
     text-align: center;
     opacity: 0;
@@ -275,7 +275,7 @@
     animation-fill-mode: forwards;
 }
 .thongtin:before{
-    background-color: rgba(255, 240, 240, 0.945);
+    background-color: rgba(250, 222, 222, 0.897);
     content:'';
     display: block;
     width: 256px;
@@ -283,7 +283,7 @@
 }
 
 .ten{
-    color: rgba(255, 240, 240, 0.945);
+    color: rgba(250, 222, 222, 0.897);
     position: fixed;
     opacity: 0;
     top: 350px;
@@ -295,7 +295,7 @@
 }
 
 .phone{
-    color:rgba(255, 240, 240, 0.945);
+    color:rgba(250, 222, 222, 0.897);
     position: fixed;
     opacity: 0;
     top: 400px;
@@ -307,7 +307,7 @@
 }
 
 .pho{
-    color: rgba(255, 240, 240, 0.945);
+    color: rgba(250, 222, 222, 0.897);
     position: fixed;
     opacity: 0;
     top: 433px;
@@ -318,7 +318,7 @@
     animation-fill-mode: forwards;
 }
 .mail{
-    color: rgba(255, 240, 240, 0.945);
+    color: rgba(250, 222, 222, 0.897);
     position: fixed;
     opacity: 0;
     top: 450px;
@@ -330,7 +330,7 @@
 }
 
 .gm{
-    color: rgba(255, 240, 240, 0.945);
+    color: rgba(250, 222, 222, 0.897);
     position: fixed;
     opacity: 0;
     top: 485px;
@@ -343,7 +343,7 @@
 
 
 .sanpham{
-    color: rgba(255, 240, 240, 0.945);
+    color: rgba(250, 222, 222, 0.897);
     position: fixed;
     text-align: center;
     opacity: 0;
