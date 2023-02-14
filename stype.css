@@ -183,7 +183,7 @@
     background-color: rgba(252, 237, 237, 0.836);
     content:'';
     display: block;
-    width: 380px;
+    width: 100%;
     height: 3px;
 }
 .sskill{
@@ -227,7 +227,7 @@
     background-color: rgba(252, 237, 237, 0.836);
     content:'';
     display: block;
-    width: 405px;
+    width: 100%;
     height: 3px;
 }
 .ngan{
@@ -275,7 +275,7 @@
     background-color: rgba(252, 237, 237, 0.836);
     content:'';
     display: block;
-    width: 256px;
+    width: 100%;
     height: 3px;
 }
 
@@ -379,22 +379,64 @@
     
 }
 
-@media only screen and (min-width: 320px) and (max-width: 860px) {}
-@media all and (max-width: 320px) {}
-@media all and (max-width: 480px) {}
-@media all and (max-width: 600px) {}
-@media all and (max-width: 800px) {}
-@media all and (max-width: 769px) {}
-@media all and (max-width: 1024px) {}
-@media all and (max-width: 1025px) {}
-@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
-  /* Styles */
+@media all and (min-width: 320px) and (max-width: 480px) {
+    .hello{font-size: larger;position: absolute;left: 43%;top: 35%;}
+    .name{font-size: larger;position: absolute;left: 28%;top: 33%;}
+    .meet{font-size: larger;position: absolute;left: 22%;top: 33%;}
+    .binh{visibility: hidden;}
+    .binh2{position: absolute;width: 50%;left: 30%;}
+    .ck{font-size: large;position: absolute;left: 12%;top: 35%}
+    .introduce{font-size: large;position: absolute;left: 10%;top: 39%;}
+    .introduce2{font-size: large;position: absolute;left: 12%;}
+    .local{font-size: large;position: absolute;left: 12%;top: 35%;}
+    .cs{font-size: large;position: absolute;top: 39%;left: 11%;}
+    .fre{font-size: larger;position: absolute;top: 35%;left: 10%;}
+    .skill{position: absolute;font-size: large;top: 33%;left:5%;}
+    .nskill{position: absolute;font-size: medium;top: 40%;left: 8%;}
+    .sskill2{font-size: medium;position: absolute;left: 1%;}
+    .sskill{font-size: medium;position: absolute;left: 50%;}
+    .py{font-size: large;position: absolute;left: 2%;}
+    .people{font-size: large;position: absolute;left: 2%;}
+    .muctieu{font-size: medium; position: absolute;left: 3%;}
+    .ngan{font-size: small;position: absolute;left: 1%;top: 55%;}
+    .thongtin{font-size: large;position: absolute;top: 39%;left: 10%;}
+    .ten{font-size: large;position: absolute;top: 45%;left: 40%;}
+    .phone{font-size: large;position: absolute;top: 52%;left: 48%;}
+    .pho{position: absolute;top: 55%;left: 39%;}
+    .mail{font-size: large;position: absolute;top: 58%;left: 48%;}
+    .gm{position: absolute;top: 62%;left: 39%;}
+    .sanpham{font-size: large;position: absolute;left: 10%; top: 70%;}
 }
-@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
-  /* Styles */
-}
-@media only screen and (min-device-width: 375px) and (max-device-height: 812px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 3) {
-  /* Styles */
+
+
+
+@media all and (max-width: 768px){
+    .hello{font-size: larger;position: absolute;left: 45%;top: 38%;}
+    .name{font-size: larger;position: absolute;left: 39%;top: 38%;}
+    .meet{font-size: larger;position: absolute;left: 36%;top: 38%;}
+    .binh{visibility: hidden;}
+    .binh2{position: absolute;top: 15%;width: 30%;left: 35%;}
+    .ck{font-size: large;position: absolute;left: 20%;top: 38%;}
+    .introduce{font-size: large;position: absolute;left: 25%;top: 38%;}
+    .introduce2{font-size: large;position: absolute;left: 27%;top:38%;}
+    .local{font-size: large;position: absolute;left: 20%;top: 38%;}
+    .cs{font-size: large;position: absolute;top: 38%;left: 24%;}
+    .fre{font-size: larger;position: absolute;top: 38%;left: 25%;}
+    .skill{position: absolute;font-size: large;top: 38%;left:29%;}
+    .nskill{position: absolute;font-size: large;top: 44%;left: 5%;}
+    .sskill2{font-size: medium;position: absolute;left: 35%;}
+    .sskill{font-size: medium;position: absolute;left: 65%;}
+    .py{font-size: large;position: absolute;left: 26%;top: 38%;}
+    .people{font-size: large;position: absolute;left: 15%;top:38%;}
+    .muctieu{font-size: large; position: absolute;left: 5%;top:45%;}
+    .ngan{font-size: small;position: absolute;left: 28%;top: 55%;}
+    .thongtin{font-size: large;position: absolute;top: 45%;left: 5%;}
+    .ten{font-size: large;position: absolute;top: 50%;left: 50%;}
+    .phone{font-size: large;position: absolute;top: 56%;left: 55%;}
+    .pho{position: absolute;top: 59%;left: 51%;}
+    .mail{font-size: large;position: absolute;top: 62%;left: 55%;}
+    .gm{position: absolute;top: 65%;left: 51%;}
+    .sanpham{font-size: large;position: absolute;left: 20%; top: 75%;}
 }
 
 
