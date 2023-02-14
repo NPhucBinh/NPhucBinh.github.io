@@ -3,18 +3,20 @@
     opacity: 0;
     animation: headtex 3s;
     animation-delay: 1s;
-    position: fixed;
-    top: 250px;
-    left: 630px;
+    position: absolute;
+    text-align: center;
+    top: 40%;
+    left: 46%;
+
 }
 
 
 .name{
     color: rgba(252, 237, 237, 0.836);
-    position: fixed;
     opacity: 0;
-    top: 250px;
-    left: 546px;
+    position: absolute;
+    top: 40%;
+    left: 40%;
     text-align: center;
     font-size: 33px;
     text-indent: 5px;
@@ -23,24 +25,23 @@
   }
 .local{
     color: rgba(252, 237, 237, 0.836);
-    position: fixed;
     opacity: 0;
-    top: 252px;
     text-align: center;
-    left: 310px;
+    position: absolute;
+    top: 50%;
+    left: 25%;
     font-size: 30px;
     animation: headtex 5s;
     animation-delay: 14s;
-    margin-top: 10px;
-    margin-bottom: 10px;
 }
 .meet{
     color: rgba(252, 237, 237, 0.836);
-    position: fixed;
     opacity: 0;
-    top: 250px;
-    left: 520px;
-    font-size: 30px;
+    text-align: center;
+    position: absolute;
+    top: 40%;
+    left: 38%;
+    font-size:30px;
     text-indent: 5px;
     animation: headtex 3s;
     animation-delay: 10s;
@@ -48,11 +49,12 @@
 .binh{
     max-width: 380px;
     height: auto;
-    image-rendering: auto;
     filter: drop-shadow(0 0 2px);
     opacity: 0;
-    margin-top: 110px;
-    margin-left: 480px;
+    position: absolute;
+    top: 53%;
+    left: 36%;
+    background-color: rgba(49,49,49);
     animation: headtex 6s;
     animation-delay: 7s;
 
@@ -60,121 +62,122 @@
 .binh2{
     max-width: 280px;
     height: auto;
-    margin-top: 10px;
-    margin-left: 540px;
     opacity: 0;
+    position: absolute;
+    top: 8%;
+    left: 40%;
     animation: headtex 3s;
     animation-delay: 13s;
     animation-fill-mode: forwards;
     
 }
+.ck{
+    color: rgba(252, 237, 237, 0.836);
+    text-align: center;
+    position: absolute;
+    opacity: 0;
+    top: 50%;
+    left: 25%;
+    font-size: 26px;
+    animation: deanh 10s;
+    animation-delay: 20s;
+}
+
 .introduce{
     color: rgba(252, 237, 237, 0.836);
-    position: fixed;
+    position: absolute;
     text-align: center;
     opacity: 0;
-    top: 250px;
-    left: 413px;
+    top: 45%;
+    left: 27%;
     font-size: 31px;
     animation: headtex 7s;
-    animation-delay: 20s;
-    margin-top: 10px;
-    margin-bottom: 18px;
+    animation-delay: 31s;
 }
 .introduce2{
     color: rgba(252, 237, 237, 0.836);
-    position: fixed;
+    position: absolute;
     text-align: center;
     opacity: 0;
-    top: 250px;
-    left: 400px;
+    top: 45%;
+    left: 28%;
     font-size: 31px;
     animation: headtex 5s;
-    animation-delay: 28s;
-    margin-top: 10px;
-    margin-bottom: 18px;
+    animation-delay: 39s;
 }
 .py{
     color: rgba(252, 237, 237, 0.836);
-    position: fixed;
+    position: absolute;
     text-align: center;
     opacity: 0;
-    top: 250px;
-    left: 360px;
+    top: 42%;
+    left: 28%;
     font-size: 30px;
     inset-inline: 1;
     animation: headtex 8s;
-    animation-delay: 34s;
-    margin-top: 10px;
-    margin-bottom: 18px;
+    animation-delay: 45s;
 }
 .people{
     color: rgba(252, 237, 237, 0.836);
-    position: fixed;
+    position: absolute;
     text-align: center;
     opacity: 0;
-    top: 250px;
-    left: 283px;
-    font-size: 30px;
-    inset-inline: 3;
-    animation: headtex 9s;
-    animation-delay: 43s;
-    margin-top: 10px;
-    margin-bottom: 18px;
-}
-
-.cs{
-    color: rgba(252, 237, 237, 0.836);
-    position: fixed;
-    text-align: center;
-    opacity: 0;
-    top: 250px;
-    left: 365px;
+    top: 45%;
+    left: 20%;
     font-size: 30px;
     inset-inline: 3;
     animation: headtex 9s;
     animation-delay: 53s;
-    margin-top: 10px;
-    margin-bottom: 18px;
+}
+
+.cs{
+    color: rgba(252, 237, 237, 0.836);
+    position: absolute;
+    text-align: center;
+    opacity: 0;
+    top: 47%;
+    left: 26%;
+    font-size: 30px;
+    inset-inline: 3;
+    animation: headtex 9s;
+    animation-delay: 63s;
 }
 
 
 .fre{
     color: rgba(252, 237, 237, 0.836);
-    position: fixed;
+    position: absolute;
     text-align: center;
     opacity: 0;
-    top: 250px;
-    left: 393px;
+    top: 50%;
+    left: 28%;
     font-size: 33px;
     inset-inline: 3;
     animation: headtex 5s;
-    animation-delay: 63s;
-    margin-top: 10px;
-    margin-bottom: 18px;
+    animation-delay: 73s;
 }
 
 .skill{
     color: rgba(252, 237, 237, 0.836);
-    position: fixed;
+    position: absolute;
     text-align: center;
     opacity: 0;
-    top: 250px;
-    left: 405px;
+    top: 50%;
+    left: 30%;
     font-size: 33px;
     inset-inline: 3;
     animation: headtex 5s;
-    animation-delay: 69s;
+    animation-delay: 79s;
 }
 .nskill{
     color: rgba(252, 237, 237, 0.836);
-    position: fixed;
+    position: absolute;
     text-align: center;
     opacity: 0;
-    top: 280px;
-    left: 230px;
+    top: 47%;
+    left: 10%;
     animation: deanh 11s;
-    animation-delay: 75s;
+    animation-delay: 85s;
 }
 .nskill:before{
     background-color: rgba(252, 237, 237, 0.836);
@@ -185,43 +188,40 @@
 }
 .sskill{
     color: rgba(252, 237, 237, 0.836);
-    position: fixed;
+    position: absolute;
     text-align: justify;
     opacity: 0;
-    top: 280px;
-    left: 700px;
+    top: 46%;
+    left: 45%;
     font-size: 26px;
     letter-spacing: 1px;
     line-height: 50px;
     animation: deanh 10s;
-    animation-delay: 76s;
-    margin-top: 20px;
+    animation-delay: 86s;
 }
 .sskill2{
     color: rgba(252, 237, 237, 0.836);
-    position: fixed;
+    position: absolute;
     text-align: justify;
     opacity: 0;
-    top: 280px;
-    left: 960px;
+    top: 46%;
+    left: 65%;
     font-size: 26px;
     letter-spacing: 1px;
     line-height: 50px;
     animation: deanh 10s;
-    animation-delay: 76s;
-    margin-top: 20px;
+    animation-delay: 86s;
 }
 
 .muctieu{
     color: rgba(252, 237, 237, 0.836);
-    position: fixed;
+    position: absolute;
     text-align: center;
     opacity: 0;
-    top: 280px;
-    left: 230px;
+    top: 47%;
+    left: 10%;
     animation: deanh 10s;
-    animation-delay: 87s;
-    margin-top: 20px;
+    animation-delay: 97s;
 }
 .muctieu:before{
     background-color: rgba(252, 237, 237, 0.836);
@@ -232,46 +232,43 @@
 }
 .ngan{
     color: rgba(252, 237, 237, 0.836);
-    position: fixed;
+    position: absolute;
     text-align: justify;
     width: 500px;
     opacity: 0;
     font-weight: 600;
-    top: 300px;
-    left: 700px;
+    top: 50%;
+    left: 50%;
     font-size: 20px;
     letter-spacing: 1px;
     word-spacing: 2px;
     border-spacing: 2px;
     animation: deanh 10s;
-    animation-delay: 88s;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    animation-delay: 108s;
 }
 
 .camon{
     color: rgba(252, 237, 237, 0.836);
     opacity: 0;
     animation: headtex 3s;
-    animation-delay: 98s;
+    animation-delay: 119s;
     text-align: center;
-    position: fixed;
+    position: absolute;
     font-weight: 600;
     width: 600px;
-    top: 250px;
-    left: 400px;
+    top: 40%;
+    left: 29%;
     animation-fill-mode: forwards;
 }
 .thongtin{
     color: rgba(252, 237, 237, 0.836);
-    position: fixed;
+    position: absolute;
     text-align: center;
     opacity: 0;
-    top: 350px;
-    left: 230px;
+    top: 55%;
+    left: 15%;
     animation: deanh 11s;
-    animation-delay: 101s;
-    margin-top: 20px;
+    animation-delay: 120s;
     animation-fill-mode: forwards;
 }
 .thongtin:before{
@@ -284,76 +281,75 @@
 
 .ten{
     color: rgba(252, 237, 237, 0.836);
-    position: fixed;
+    position: absolute;
     opacity: 0;
-    top: 350px;
-    left: 656px;
+    top: 56%;
+    left: 50%;
     font-size: 30px;
     animation: headtex 5s;
-    animation-delay: 102s;
+    animation-delay: 121s;
     animation-fill-mode: forwards;
 }
 
 .phone{
     color:rgba(252, 237, 237, 0.836);
-    position: fixed;
+    position: absolute;
     opacity: 0;
-    top: 400px;
-    left: 686px;
+    top: 63%;
+    left: 52%;
     font-size: 28px;
     animation: headtex 5s;
-    animation-delay: 103s;
+    animation-delay: 122s;
     animation-fill-mode: forwards;
 }
 
 .pho{
     color: rgba(252, 237, 237, 0.836);
-    position: fixed;
+    position: absolute;
     opacity: 0;
-    top: 433px;
-    left: 655px;
+    top: 68%;
+    left: 50%;
     font-size: 28px;
     animation: headtex 5s;
-    animation-delay: 103s;
+    animation-delay: 122s;
     animation-fill-mode: forwards;
 }
 .mail{
     color: rgba(252, 237, 237, 0.836);
-    position: fixed;
+    position: absolute;
     opacity: 0;
-    top: 450px;
-    left: 686px;
+    top: 69%;
+    left: 52%;
     font-size: 28px;
     animation: headtex 5s;
-    animation-delay: 104s;
+    animation-delay: 123s;
     animation-fill-mode: forwards;
 }
 
 .gm{
     color: rgba(252, 237, 237, 0.836);
-    position: fixed;
+    position: absolute;
     opacity: 0;
-    top: 485px;
-    left: 655px;
+    top: 75%;
+    left: 50%;
     font-size: 28px;
     animation: headtex 5s;
-    animation-delay: 104s;
+    animation-delay: 123s;
     animation-fill-mode: forwards;
 }
 
 
 .sanpham{
     color: rgba(252, 237, 237, 0.836);
-    position: fixed;
+    position: absolute;
     text-align: center;
     opacity: 0;
     font-weight: 600;
-    top: 518px;
-    left: 430px;
+    top: 86%;
+    left: 32%;
     font-size: 23px;
     animation: deanh 11s;
-    animation-delay: 113s;
-    margin-top: 20px;
+    animation-delay: 124s;
     animation-fill-mode: forwards;
 }
 
@@ -382,3 +378,23 @@
     }
     
 }
+
+@media only screen and (min-width: 320px) and (max-width: 860px) {}
+@media screen {
+    
+}
+@media only screen and (max-width: 320px) {}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
+  /* Styles */
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
+  /* Styles */
+}
+@media only screen and (min-device-width: 375px) and (max-device-height: 812px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 3) {
+  /* Styles */
+}
+
+
+
+
