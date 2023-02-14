@@ -1,0 +1,384 @@
+.hello{
+    color: rgba(240, 255, 255, 0.945);
+    opacity: 0;
+    animation: headtex 3s;
+    animation-delay: 1s;
+    position: fixed;
+    top: 250px;
+    left: 630px;
+}
+
+
+.name{
+    color: rgba(240, 255, 255, 0.945);
+    position: fixed;
+    opacity: 0;
+    top: 250px;
+    left: 546px;
+    text-align: center;
+    font-size: 33px;
+    text-indent: 5px;
+    animation: headtex 5s;
+    animation-delay: 5s;
+  }
+.local{
+    color: rgba(240, 255, 255, 0.945);
+    position: fixed;
+    opacity: 0;
+    top: 252px;
+    text-align: center;
+    left: 310px;
+    font-size: 30px;
+    animation: headtex 5s;
+    animation-delay: 14s;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.meet{
+    color: rgba(240, 255, 255, 0.945);
+    position: fixed;
+    opacity: 0;
+    top: 250px;
+    left: 520px;
+    font-size: 30px;
+    text-indent: 5px;
+    animation: headtex 3s;
+    animation-delay: 10s;
+}
+.binh{
+    max-width: 380px;
+    height: auto;
+    image-rendering: auto;
+    filter: drop-shadow(0 0 2px);
+    opacity: 0;
+    margin-top: 110px;
+    margin-left: 480px;
+    animation: headtex 6s;
+    animation-delay: 7s;
+
+}
+.binh2{
+    max-width: 280px;
+    height: auto;
+    margin-top: 10px;
+    margin-left: 540px;
+    opacity: 0;
+    animation: headtex 3s;
+    animation-delay: 13s;
+    animation-fill-mode: forwards;
+    
+}
+.introduce{
+    color: rgba(240, 255, 255, 0.945);
+    position: fixed;
+    text-align: center;
+    opacity: 0;
+    top: 250px;
+    left: 413px;
+    font-size: 31px;
+    animation: headtex 7s;
+    animation-delay: 20s;
+    margin-top: 10px;
+    margin-bottom: 18px;
+}
+.introduce2{
+    color: rgba(240, 255, 255, 0.945);
+    position: fixed;
+    text-align: center;
+    opacity: 0;
+    top: 250px;
+    left: 400px;
+    font-size: 31px;
+    animation: headtex 5s;
+    animation-delay: 28s;
+    margin-top: 10px;
+    margin-bottom: 18px;
+}
+.py{
+    color: rgba(240, 255, 255, 0.945);
+    position: fixed;
+    text-align: center;
+    opacity: 0;
+    top: 250px;
+    left: 360px;
+    font-size: 30px;
+    inset-inline: 1;
+    animation: headtex 8s;
+    animation-delay: 34s;
+    margin-top: 10px;
+    margin-bottom: 18px;
+}
+.people{
+    color: rgba(240, 255, 255, 0.945);
+    position: fixed;
+    text-align: center;
+    opacity: 0;
+    top: 250px;
+    left: 283px;
+    font-size: 30px;
+    inset-inline: 3;
+    animation: headtex 9s;
+    animation-delay: 43s;
+    margin-top: 10px;
+    margin-bottom: 18px;
+}
+
+.cs{
+    color: rgba(240, 255, 255, 0.945);
+    position: fixed;
+    text-align: center;
+    opacity: 0;
+    top: 250px;
+    left: 365px;
+    font-size: 30px;
+    inset-inline: 3;
+    animation: headtex 9s;
+    animation-delay: 53s;
+    margin-top: 10px;
+    margin-bottom: 18px;
+}
+
+
+.fre{
+    color: rgba(240, 255, 255, 0.945);
+    position: fixed;
+    text-align: center;
+    opacity: 0;
+    top: 250px;
+    left: 393px;
+    font-size: 33px;
+    inset-inline: 3;
+    animation: headtex 5s;
+    animation-delay: 63s;
+    margin-top: 10px;
+    margin-bottom: 18px;
+}
+
+.skill{
+    color: rgba(240, 255, 255, 0.945);
+    position: fixed;
+    text-align: center;
+    opacity: 0;
+    top: 250px;
+    left: 405px;
+    font-size: 33px;
+    inset-inline: 3;
+    animation: headtex 5s;
+    animation-delay: 69s;
+}
+.nskill{
+    color: rgba(240, 255, 255, 0.945);
+    position: fixed;
+    text-align: center;
+    opacity: 0;
+    top: 280px;
+    left: 230px;
+    animation: deanh 11s;
+    animation-delay: 75s;
+}
+.nskill:before{
+    background-color: rgba(240, 255, 255, 0.945);
+    content:'';
+    display: block;
+    width: 380px;
+    height: 3px;
+}
+.sskill{
+    color: rgba(240, 255, 255, 0.945);
+    position: fixed;
+    text-align: justify;
+    opacity: 0;
+    top: 280px;
+    left: 700px;
+    font-size: 26px;
+    letter-spacing: 1px;
+    line-height: 50px;
+    animation: deanh 10s;
+    animation-delay: 76s;
+    margin-top: 20px;
+}
+.sskill2{
+    color: rgba(240, 255, 255, 0.945);
+    position: fixed;
+    text-align: justify;
+    opacity: 0;
+    top: 280px;
+    left: 960px;
+    font-size: 26px;
+    letter-spacing: 1px;
+    line-height: 50px;
+    animation: deanh 10s;
+    animation-delay: 76s;
+    margin-top: 20px;
+}
+
+.muctieu{
+    color: rgba(240, 255, 255, 0.945);
+    position: fixed;
+    text-align: center;
+    opacity: 0;
+    top: 280px;
+    left: 230px;
+    animation: deanh 10s;
+    animation-delay: 87s;
+    margin-top: 20px;
+}
+.muctieu:before{
+    background-color: rgba(240, 255, 255, 0.945);
+    content:'';
+    display: block;
+    width: 405px;
+    height: 3px;
+}
+.ngan{
+    color: rgba(240, 255, 255, 0.945);
+    position: fixed;
+    text-align: justify;
+    width: 500px;
+    opacity: 0;
+    font-weight: 600;
+    top: 300px;
+    left: 700px;
+    font-size: 20px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    border-spacing: 2px;
+    animation: deanh 10s;
+    animation-delay: 88s;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.camon{
+    color: rgba(240, 255, 255, 0.945);
+    opacity: 0;
+    animation: headtex 3s;
+    animation-delay: 98s;
+    text-align: center;
+    position: fixed;
+    font-weight: 600;
+    width: 600px;
+    top: 250px;
+    left: 400px;
+    animation-fill-mode: forwards;
+}
+.thongtin{
+    color: rgba(240, 255, 255, 0.945);
+    position: fixed;
+    text-align: center;
+    opacity: 0;
+    top: 350px;
+    left: 230px;
+    animation: deanh 11s;
+    animation-delay: 101s;
+    margin-top: 20px;
+    animation-fill-mode: forwards;
+}
+.thongtin:before{
+    background-color: rgba(240, 255, 255, 0.945);
+    content:'';
+    display: block;
+    width: 256px;
+    height: 3px;
+}
+
+.ten{
+    color: rgba(240, 255, 255, 0.945);
+    position: fixed;
+    opacity: 0;
+    top: 350px;
+    left: 656px;
+    font-size: 30px;
+    animation: headtex 5s;
+    animation-delay: 102s;
+    animation-fill-mode: forwards;
+}
+
+.phone{
+    color: rgba(240, 255, 255, 0.945);
+    position: fixed;
+    opacity: 0;
+    top: 400px;
+    left: 686px;
+    font-size: 28px;
+    animation: headtex 5s;
+    animation-delay: 103s;
+    animation-fill-mode: forwards;
+}
+
+.pho{
+    color: rgba(240, 255, 255, 0.945);
+    position: fixed;
+    opacity: 0;
+    top: 433px;
+    left: 655px;
+    font-size: 28px;
+    animation: headtex 5s;
+    animation-delay: 103s;
+    animation-fill-mode: forwards;
+}
+.mail{
+    color: rgba(240, 255, 255, 0.945);
+    position: fixed;
+    opacity: 0;
+    top: 450px;
+    left: 686px;
+    font-size: 28px;
+    animation: headtex 5s;
+    animation-delay: 104s;
+    animation-fill-mode: forwards;
+}
+
+.gm{
+    color: rgba(240, 255, 255, 0.945);
+    position: fixed;
+    opacity: 0;
+    top: 485px;
+    left: 655px;
+    font-size: 28px;
+    animation: headtex 5s;
+    animation-delay: 104s;
+    animation-fill-mode: forwards;
+}
+
+
+.sanpham{
+    color: rgba(240, 255, 255, 0.945);
+    position: fixed;
+    text-align: center;
+    opacity: 0;
+    font-weight: 600;
+    top: 518px;
+    left: 430px;
+    font-size: 23px;
+    animation: deanh 11s;
+    animation-delay: 113s;
+    margin-top: 20px;
+    animation-fill-mode: forwards;
+}
+
+@keyframes headtex {
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+    
+}
+
+@keyframes deanh {
+    0%{
+        opacity: 0;
+    }
+    28%{
+        opacity: 1;
+    }
+    50%{
+        opacity: 1;
+    }
+    100%{
+        opacity: 1;
+    }
+    
+}
